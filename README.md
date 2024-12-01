@@ -6,7 +6,7 @@
 
 ## Installation
 ### Theme
-- Unzip the [(files)](https://drive.google.com/file/d/1TFc10E4yF0yWYuNJ0HJnicH4zulG-ddo/view?usp=sharing)folder
+- Unzip the [(files)](https://drive.google.com/file/d/1TFc10E4yF0yWYuNJ0HJnicH4zulG-ddo/view?usp=sharing) folder
 - Copy /.themes/ folder to your home directory (if you do not see the folder, press CTRL + H to show hidden files or use terminal)
 - Install [(Gnome-tweaks)](https://itsfoss.com/gnome-tweak-tool/)
 - Install [(Extension Manager)](https://itsfoss.com/extension-manager/)
