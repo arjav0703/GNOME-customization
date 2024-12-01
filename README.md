@@ -1,5 +1,6 @@
 # GNOME-customization
 ---
+This REPO is tested on Ubuntu 24.04.1 LTS and GNOME 46.0 
 ### Link to files
 - https://drive.google.com/file/d/1TFc10E4yF0yWYuNJ0HJnicH4zulG-ddo/view?usp=sharing
 ---
