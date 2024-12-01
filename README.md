@@ -11,7 +11,7 @@
 ![4](https://cloud-8311tttub-hack-club-bot.vercel.app/3screenshot_from_2024-11-30_19-21-25.png)
 ![5](https://cloud-8311tttub-hack-club-bot.vercel.app/2screenshot_from_2024-11-30_19-20-52.png)
 ![6](https://cloud-8311tttub-hack-club-bot.vercel.app/1screenshot_from_2024-11-30_19-20-24.png)
-![7](https://cloud-8311tttub-hack-club-bot.vercel.app/0screenshot_from_2024-09-24_20-29-34.png)
+
 
 ## Installation
 ### Theme
