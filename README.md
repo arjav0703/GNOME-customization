@@ -45,3 +45,6 @@ This REPO is tested on Ubuntu 24.04.1 LTS and GNOME 46.0
 ### Icon pack
 - Copy the /.icons/ from [(files)](https://drive.google.com/file/d/1TFc10E4yF0yWYuNJ0HJnicH4zulG-ddo/view?usp=sharing) folder (if you do not see the folder, press CTRL + H to show hidden files or use terminal)
 - Open [(Gnome-tweaks)](https://itsfoss.com/gnome-tweak-tool/) and on the 'Appearence' tab, select the desired Icon pack.
+
+### Thanks to the Open-Source Community for creating the backgrounds, themes, Icon packs and cursors.
+### Special thanks to [Wallhaven](https://wallhaven.cc) for amazing backgrounds.
