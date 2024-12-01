@@ -3,6 +3,10 @@
 ### Link to files
 - https://drive.google.com/file/d/1TFc10E4yF0yWYuNJ0HJnicH4zulG-ddo/view?usp=sharing
 ---
+### Quick Links
+- [Demo](#result)
+- [Installation](#installation)
+
 ---
 ## RESULT
 ![1](https://cloud-8311tttub-hack-club-bot.vercel.app/6screenshot_from_2024-11-30_19-25-38.png)
